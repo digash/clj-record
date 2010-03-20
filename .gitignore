@@ -3,3 +3,4 @@ classes
 *.swp
 clj-record.jar
 /lib/*
+/target/*
